@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LoginScreen</string>
+    <string name="text_view">Welcome Back!</string>
+    <string name="text_user">Username/Email</string>
+    <string name="text_pass">Password</string>
+    <string name="but_sub">Login</string>
+    <string name="text_forgot">Forgot Password</string>
+    <string name="text_base">Dont have an Account ? Create an Account</string>
+    <string name="hintpass">Enter your password</string>
+    <string name="signup">Signup</string>
+    <string name="name" />
+    <string name="name_1">Name</string>
+    <string name="Phone">Phone no</string>
+    <string name="email">email</string>
+    <string name="confirm_pas">Confirm password</string>
+    <string name="goback">Proceed Login</string>
+    <string name="loginsuccess">Login Succssfully!!</string>
+    <string name="emailverification">Enter email for verification</string>
+    <string name="verify">verify</string>
+    <string name="verified">Password Successfully verified</string>
+    <string name="goback2">Go to login screen</string>
+</resources>
